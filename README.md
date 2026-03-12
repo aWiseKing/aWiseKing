@@ -4,7 +4,7 @@ I'm a passionate developer who loves exploring new technologies and building eff
 
 ## 🌟 About Me
 
-- 🌍 I am a strong advocate for **Remote Work** and thrive in distributed environments.
+- 🌍 I enjoy **Remote Work** and am fully comfortable collaborating in distributed environments.
 - 💡 I have a deep passion for technology and continuous learning.
 - 🔭 Currently working on interesting projects and expanding my skill set.
 
